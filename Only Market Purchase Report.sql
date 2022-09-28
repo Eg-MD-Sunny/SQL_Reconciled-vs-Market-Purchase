@@ -1,4 +1,3 @@
-
 ---Only Market Purchase Sold Information Part-1
 --Sold Information
 

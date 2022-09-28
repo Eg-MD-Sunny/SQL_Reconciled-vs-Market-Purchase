@@ -1,4 +1,3 @@
-
 ----Reconciled QTY
 
 SELECT	s.warehouseid,COUNT(*) Sale_QTY
